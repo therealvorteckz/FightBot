@@ -20,7 +20,7 @@
 
 [!shop - Shows items that you can !buy]
 
-[!buy <item> [weapon, ammo, bandages <amount>]
+[!buy <item> [weapon, ammo, medkit, bandages <amount>]
 
 [!reload - Reloads Weapon]
 
