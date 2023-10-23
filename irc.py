@@ -212,7 +212,7 @@ class Bot(object):
                                         await bot.sendmsg(config.irc.channel, '[!shoot <enemy> - Shoot if you own a weapon]')
                                         await bot.sendmsg(config.irc.channel, '[!bank - Returns Bank Balance]')
                                         await bot.sendmsg(config.irc.channel, '[!shop - Shows items that you can !buy]')
-                                        await bot.sendmsg(config.irc.channel, '[!buy <item> [weapon, ammo, bandages <amount>]')
+                                        await bot.sendmsg(config.irc.channel, '[!buy <item> [weapon, ammo, medkit, bandages <amount>]')
                                         await bot.sendmsg(config.irc.channel, '[!reload - Reloads Weapon]')
                                         await bot.sendmsg(config.irc.channel, '[!ammo - Show Ammunition Amounts]')    
                                         await bot.sendmsg(config.irc.channel, '[!bandages - Shows Bandage Amounts]')
