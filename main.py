@@ -1,11 +1,9 @@
 #!/usr/bin/env python
-# IRC Cryptocurrency Exchange (IRCCEX) - Developed by acidvegas in Python (https://acid.vegas/irccex)
-# irccex.py
+# IRC Fightbot - Friendly Chat Fightbbot
 
 import os
 import sys
 import importlib
-#import functions
 from time import sleep
 import asyncio
 import logging
