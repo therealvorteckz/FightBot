@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# IRC Fightbot - Friendly Chat Fightbbot
+# IRC Fightbot - Friendly Chat Fightbot
 
 import os
 import sys
